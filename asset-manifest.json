@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pokemon-card-viewer/static/css/main.f855e6bc.css",
+    "main.js": "/pokemon-card-viewer/static/js/main.94d8dbf6.js",
+    "static/js/453.26e4e620.chunk.js": "/pokemon-card-viewer/static/js/453.26e4e620.chunk.js",
+    "static/media/logo.svg": "/pokemon-card-viewer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pokemon-card-viewer/index.html",
+    "main.f855e6bc.css.map": "/pokemon-card-viewer/static/css/main.f855e6bc.css.map",
+    "main.94d8dbf6.js.map": "/pokemon-card-viewer/static/js/main.94d8dbf6.js.map",
+    "453.26e4e620.chunk.js.map": "/pokemon-card-viewer/static/js/453.26e4e620.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.94d8dbf6.js"
+  ]
+}
